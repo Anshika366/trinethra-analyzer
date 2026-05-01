@@ -1,0 +1,12 @@
+/* Delete everything and leave this or nothing */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
